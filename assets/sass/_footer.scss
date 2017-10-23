@@ -1,0 +1,17 @@
+footer {
+  width: 100%;
+  background-color: $darkPurple;
+  padding: 1em;
+  // margin-top: 1em;
+  ul li {
+    color: white;
+    padding: .1em;
+  }
+  a {
+    text-decoration: none;
+    color: white;
+    span {
+      color: mediumvioletred;
+    }
+  }
+}
